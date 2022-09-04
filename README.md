@@ -1,10 +1,13 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+## ReactJS based Web Application for an Finanical App
+This is a code repository of a React.js based web app for an financial app with modern UI/UX design using Tailwind CSS. This application is deployed and currently hosted [here](https://financial-app-tailwind.netlify.app/).
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+### Key Stacks
+1. Advance React
+2. Advance State Management using React Hooks
+3. Tailwind CSS
 
+### Screenshot
+![image](https://github.com/zhenyu92/financial-app/blob/main/screenshot.PNG)
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
-
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+### Credits
+This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
